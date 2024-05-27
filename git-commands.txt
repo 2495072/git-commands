@@ -2,7 +2,7 @@ mkdir myprojectName
 cd myprojectName
 git init
 git status
-git add fileName.txt
+git add fileName.txt   -> start from this line after any change in files
 git commit -m "comments"
-git remote add origin (link to repository)
+git remote add origin (link to repository) ->  copy link from gitHub repository
 git push -u origin master
