@@ -3,3 +3,6 @@ cd myprojectName
 git init
 git status
 git add fileName.txt
+git commit -m "comments"
+git remote add origin (link to repository)
+git push -u origin master
