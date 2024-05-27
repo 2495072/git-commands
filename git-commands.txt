@@ -1,0 +1,5 @@
+mkdir myprojectName
+cd myprojectName
+git init
+git status
+git add fileName.txt
